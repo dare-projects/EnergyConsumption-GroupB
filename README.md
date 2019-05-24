@@ -10,6 +10,6 @@ R code containing the procedure of the feature extraction and the creation of th
 
 Csv dataset produced by the R script: every row contains the date, irradiance, energy, external temperature, internal temperature, delta temperature, day, month, hours and working day.
 
-### Data Analysis Visualization (clustering.py)
+### Data Analysis Visualization (program_energy.py)
 
 Python script that performs three regression algorithms on the final dataset: linear regression, polynomial regression and random forest regression. Results are plotted for each algorithm.
